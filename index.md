@@ -8,10 +8,10 @@
 
 ### Writing Gym has the tools to strengthen your writing muscles.<br>
 <p align="left">
-  <img src="https://github.com/indianmoody/writing_gym_info/blob/gh-pages/images/wg_web_1.png" width="335" height="430">
-  <img src="https://github.com/indianmoody/writing_gym_info/blob/gh-pages/images/wg_web_2.png" width="335" height="430">
-  <img src="https://github.com/indianmoody/writing_gym_info/blob/gh-pages/images/wg_web_3.png" width="335" height="430">
-  <img src="https://github.com/indianmoody/writing_gym_info/blob/gh-pages/images/wg_web_4.png" width="335" height="430">
+  <img src="https://indianmoody.github.io/writing_gym_info/images/wg_web_1.png" width="335" height="430">
+  <img src="https://indianmoody.github.io/writing_gym_info/images/wg_web_2.png" width="335" height="430">
+  <img src="https://indianmoody.github.io/writing_gym_info/images/wg_web_3.png" width="335" height="430">
+  <img src="https://indianmoody.github.io/writing_gym_info/images/wg_web_4.png" width="335" height="430">
 </p>
 <!--![multi-device](/images/wg_web_1.png)-->
 <!--![share_writing](/images/wg_web_2.png)-->
