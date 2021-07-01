@@ -1,4 +1,17 @@
-## Welcome to GitHub Pages
+# Writing Gym
+
+>Are you suffering from Writer's Block? 
+
+>Do you crave writing consistency? 
+
+>Do you want to improve your ideation process?<br>
+
+### Writing Gym has the tools to strengthen your writing muscles.<br>
+
+
+
+
+
 
 You can use the [editor on GitHub](https://github.com/indianmoody/writing_gym_info/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
