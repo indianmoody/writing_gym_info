@@ -9,11 +9,11 @@
 ### Writing Gym has the tools to strengthen your writing muscles.<br>
 <p align="left">
   <img src="https://indianmoody.github.io/writing_gym_info/images/wg_web_1.png" width="335" height="430">
-  &nbsp
+  &nbsp;
   <img src="https://indianmoody.github.io/writing_gym_info/images/wg_web_2.png" width="335" height="430">
-  &nbsp
+  &nbsp;
   <img src="https://indianmoody.github.io/writing_gym_info/images/wg_web_3.png" width="335" height="430">
-  &nbsp
+  &nbsp;
   <img src="https://indianmoody.github.io/writing_gym_info/images/wg_web_4.png" width="335" height="430">
 </p>
 <!--![multi-device](/images/wg_web_1.png)-->
