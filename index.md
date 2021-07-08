@@ -33,9 +33,13 @@
 </p>
 
 <p align="left">
-  <img src="https://indianmoody.github.io/writing_gym_info/images/download_app_store.png" width="180" height="60">
+  <a href="https://apps.apple.com/us/app/writing-gym/id1542464363">
+    <img src="https://indianmoody.github.io/writing_gym_info/images/download_app_store.png" width="180" height="60">
+  </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://indianmoody.github.io/writing_gym_info/images/download_mac_app_store.png" width="234" height="60">
+  <a href="https://apps.apple.com/us/app/writing-gym/id1542464363">
+    <img src="https://indianmoody.github.io/writing_gym_info/images/download_mac_app_store.png" width="234" height="60">
+  </a>
 </p>
 
 <p>
