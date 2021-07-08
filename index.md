@@ -42,8 +42,7 @@
   </a>
 </p>
 
-<p>
-  [Privacy Policy, Terms & Conditions](https://indianmoody.github.io/writing_gym_info/privacy_policy_tnc.html)  
+
+[Privacy Policy, Terms & Conditions](https://indianmoody.github.io/writing_gym_info/privacy_policy_tnc.html)  
   
-  For support, contact gaurav29developer@gmail.com
-</p>
+For support, contact gaurav29developer@gmail.com
