@@ -1,0 +1,12 @@
+---
+---
+
+// Headers
+$header-heading-color: #fff !default;
+$header-bg-color: #36607B;
+$header-bg-color-secondary: #457B9D;
+
+// Text
+$section-headings-color: #606c71;
+
+@import "{{ site.theme }}";
